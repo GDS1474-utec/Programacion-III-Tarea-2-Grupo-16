@@ -192,6 +192,6 @@ auto max_variadic(First first, Rest... rest) {
     return result;
 }
 
-} // namespace core_numeric
+}
 
 #endif
