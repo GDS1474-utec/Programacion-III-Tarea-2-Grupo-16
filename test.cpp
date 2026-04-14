@@ -54,18 +54,18 @@ int main() {
     // NO COMPILAN
     // =========================
 
-    // ❌ string NO cumple NumericLike
+    // string NO cumple NumericLike
     // vector<string> vs{"a","b"};
     // core_numeric::variance(vs);
 
-    // ❌ string no tiene *, /
+    // string no tiene *, /
     // core_numeric::max(vs);
 
-    // ❌ int no es Iterable
+    // int no es Iterable
     // int x = 5;
     // core_numeric::sum(x);
 
-    // ❌ const char* no cumple Addable correctamente
+    // const char* no cumple Addable correctamente
     // core_numeric::sum_variadic("Hola","Mundo");
 
     cout << "Test completo\n";
