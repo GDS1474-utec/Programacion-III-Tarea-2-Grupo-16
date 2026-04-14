@@ -28,7 +28,7 @@ int main() {
 
     cout << "=== VALIDOS ===\n";
 
-    vector<double> v{1,2,3};
+    vector<double> v{7,8,12};
     cout << core_numeric::sum(v) << endl;
     cout << core_numeric::mean(v) << endl;
     cout << core_numeric::variance(v) << endl;
