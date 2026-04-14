@@ -1,4 +1,4 @@
 # Programacion-III-Tarea-2-Grupo-16
-integrantes:
+integrantes:;
 Tommy Bryan Loo Leon
 Giancarlo Davila Segovia
